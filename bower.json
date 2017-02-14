@@ -1,0 +1,28 @@
+{
+  "name": "zlatov-toc",
+  "authors": [
+    "iadfeshchm <zlatov@ya.ru>"
+  ],
+  "description": "table of contents",
+  "main": [
+    "js/toc.js",
+    "css/toc.css"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.1",
+  },
+  "keywords": [
+    "toc",
+    "contents",
+    "table"
+  ],
+  "license": "MIT",
+  "homepage": "http://zlatov.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
