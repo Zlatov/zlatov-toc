@@ -9,7 +9,7 @@
     "css/toc.css"
   ],
   "dependencies": {
-    "jquery": "~1.11.1"
+    "jquery": "~1.11.3"
   },
   "keywords": [
     "toc",
